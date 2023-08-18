@@ -1,0 +1,398 @@
+
+icon10.png
+size: 876,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_icon_sl_shang_000
+  rotate: true
+  xy: 767, 462
+  size: 84, 94
+  orig: 97, 126
+  offset: 8, 23
+  index: -1
+ef_icon_sl_shang_001
+  rotate: true
+  xy: 766, 237
+  size: 86, 99
+  orig: 97, 126
+  offset: 6, 19
+  index: -1
+ef_icon_sl_shang_002
+  rotate: false
+  xy: 615, 3
+  size: 89, 99
+  orig: 97, 126
+  offset: 4, 19
+  index: -1
+ef_icon_sl_shang_003
+  rotate: false
+  xy: 684, 111
+  size: 91, 96
+  orig: 97, 126
+  offset: 4, 23
+  index: -1
+ef_icon_sl_shang_004
+  rotate: false
+  xy: 491, 95
+  size: 93, 107
+  orig: 97, 126
+  offset: 3, 12
+  index: -1
+ef_icon_sl_shang_005
+  rotate: false
+  xy: 488, 204
+  size: 95, 109
+  orig: 97, 126
+  offset: 2, 10
+  index: -1
+ef_icon_sl_shang_006
+  rotate: false
+  xy: 395, 433
+  size: 96, 113
+  orig: 97, 126
+  offset: 1, 8
+  index: -1
+ef_icon_sl_shang_007
+  rotate: false
+  xy: 299, 308
+  size: 96, 116
+  orig: 97, 126
+  offset: 1, 7
+  index: -1
+ef_icon_sl_shang_008
+  rotate: false
+  xy: 297, 183
+  size: 96, 118
+  orig: 97, 126
+  offset: 1, 7
+  index: -1
+ef_icon_sl_shang_009
+  rotate: false
+  xy: 200, 303
+  size: 97, 119
+  orig: 97, 126
+  offset: 0, 7
+  index: -1
+ef_icon_sl_shang_010
+  rotate: false
+  xy: 297, 426
+  size: 96, 120
+  orig: 97, 126
+  offset: 1, 6
+  index: -1
+ef_icon_sl_shang_011
+  rotate: false
+  xy: 101, 300
+  size: 97, 121
+  orig: 97, 126
+  offset: 0, 5
+  index: -1
+ef_icon_sl_shang_012
+  rotate: false
+  xy: 101, 53
+  size: 96, 121
+  orig: 97, 126
+  offset: 1, 5
+  index: -1
+ef_icon_sl_shang_013
+  rotate: false
+  xy: 199, 54
+  size: 95, 121
+  orig: 97, 126
+  offset: 2, 5
+  index: -1
+ef_icon_sl_shang_014
+  rotate: false
+  xy: 199, 177
+  size: 96, 121
+  orig: 97, 126
+  offset: 1, 5
+  index: -1
+ef_icon_sl_shang_015
+  rotate: false
+  xy: 2, 174
+  size: 97, 122
+  orig: 97, 126
+  offset: 0, 4
+  index: -1
+ef_icon_sl_shang_016
+  rotate: false
+  xy: 199, 424
+  size: 96, 122
+  orig: 97, 126
+  offset: 0, 4
+  index: -1
+ef_icon_sl_shang_017
+  rotate: false
+  xy: 2, 50
+  size: 97, 122
+  orig: 97, 126
+  offset: 0, 4
+  index: -1
+ef_icon_sl_shang_018
+  rotate: false
+  xy: 2, 423
+  size: 97, 123
+  orig: 97, 126
+  offset: 0, 3
+  index: -1
+ef_icon_sl_shang_019
+  rotate: false
+  xy: 2, 298
+  size: 97, 123
+  orig: 97, 126
+  offset: 0, 3
+  index: -1
+ef_icon_sl_shang_020
+  rotate: false
+  xy: 101, 423
+  size: 96, 123
+  orig: 97, 126
+  offset: 0, 3
+  index: -1
+ef_icon_sl_shang_021
+  rotate: false
+  xy: 101, 176
+  size: 96, 122
+  orig: 97, 126
+  offset: 0, 4
+  index: -1
+ef_icon_sl_shang_022
+  rotate: false
+  xy: 296, 56
+  size: 96, 119
+  orig: 97, 126
+  offset: 0, 4
+  index: -1
+ef_icon_sl_shang_023
+  rotate: false
+  xy: 394, 62
+  size: 95, 119
+  orig: 97, 126
+  offset: 1, 4
+  index: -1
+ef_icon_sl_shang_024
+  rotate: false
+  xy: 395, 188
+  size: 91, 118
+  orig: 97, 126
+  offset: 3, 5
+  index: -1
+ef_icon_sl_shang_025
+  rotate: false
+  xy: 397, 315
+  size: 91, 116
+  orig: 97, 126
+  offset: 4, 6
+  index: -1
+ef_icon_sl_shang_026
+  rotate: false
+  xy: 493, 434
+  size: 91, 112
+  orig: 97, 126
+  offset: 4, 7
+  index: -1
+ef_icon_sl_shang_027
+  rotate: false
+  xy: 584, 320
+  size: 91, 112
+  orig: 97, 126
+  offset: 4, 7
+  index: -1
+ef_icon_sl_shang_028
+  rotate: false
+  xy: 490, 319
+  size: 92, 112
+  orig: 97, 126
+  offset: 3, 8
+  index: -1
+ef_icon_sl_shang_029
+  rotate: false
+  xy: 586, 435
+  size: 90, 111
+  orig: 97, 126
+  offset: 3, 8
+  index: -1
+ef_icon_sl_shang_030
+  rotate: false
+  xy: 677, 325
+  size: 88, 108
+  orig: 97, 126
+  offset: 5, 11
+  index: -1
+ef_icon_sl_shang_031
+  rotate: true
+  xy: 504, 3
+  size: 90, 109
+  orig: 97, 126
+  offset: 4, 10
+  index: -1
+ef_icon_sl_shang_032
+  rotate: false
+  xy: 676, 209
+  size: 88, 109
+  orig: 97, 126
+  offset: 5, 10
+  index: -1
+ef_icon_sl_shang_033
+  rotate: false
+  xy: 678, 437
+  size: 87, 109
+  orig: 97, 126
+  offset: 5, 10
+  index: -1
+ef_icon_sl_shang_034
+  rotate: true
+  xy: 777, 149
+  size: 86, 94
+  orig: 97, 126
+  offset: 5, 23
+  index: -1
+ef_icon_sl_shang_035
+  rotate: false
+  xy: 706, 11
+  size: 85, 98
+  orig: 97, 126
+  offset: 6, 19
+  index: -1
+ef_icon_sl_xia_000
+  rotate: true
+  xy: 777, 111
+  size: 36, 41
+  orig: 48, 49
+  offset: 6, 3
+  index: -1
+ef_icon_sl_xia_002
+  rotate: false
+  xy: 793, 3
+  size: 43, 44
+  orig: 48, 49
+  offset: 3, 3
+  index: -1
+ef_icon_sl_xia_004
+  rotate: true
+  xy: 53, 5
+  size: 43, 49
+  orig: 48, 49
+  offset: 3, 0
+  index: -1
+ef_icon_sl_xia_006
+  rotate: true
+  xy: 2, 2
+  size: 46, 49
+  orig: 48, 49
+  offset: 1, 0
+  index: -1
+ef_icon_sl_xia_008
+  rotate: true
+  xy: 818, 413
+  size: 47, 49
+  orig: 48, 49
+  offset: 1, 0
+  index: -1
+ef_icon_sl_xia_010
+  rotate: false
+  xy: 104, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_012
+  rotate: false
+  xy: 154, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_014
+  rotate: false
+  xy: 204, 3
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_016
+  rotate: false
+  xy: 254, 3
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_018
+  rotate: false
+  xy: 304, 5
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_020
+  rotate: false
+  xy: 354, 5
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_022
+  rotate: false
+  xy: 404, 11
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_024
+  rotate: false
+  xy: 454, 11
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_026
+  rotate: true
+  xy: 820, 99
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_028
+  rotate: true
+  xy: 793, 49
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_030
+  rotate: true
+  xy: 818, 364
+  size: 47, 49
+  orig: 48, 49
+  offset: 1, 0
+  index: -1
+ef_icon_sl_xia_032
+  rotate: true
+  xy: 767, 412
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+ef_icon_sl_xia_034
+  rotate: false
+  xy: 767, 371
+  size: 40, 39
+  orig: 48, 49
+  offset: 4, 4
+  index: -1
+sl11
+  rotate: false
+  xy: 585, 207
+  size: 89, 111
+  orig: 89, 111
+  offset: 0, 0
+  index: -1
+sl20
+  rotate: false
+  xy: 586, 104
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1

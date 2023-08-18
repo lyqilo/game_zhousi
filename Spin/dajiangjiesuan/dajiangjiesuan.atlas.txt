@@ -1,0 +1,41 @@
+
+dajiangjiesuan.png
+size: 556,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zjs_dig
+  rotate: true
+  xy: 2, 199
+  size: 439, 191
+  orig: 439, 228
+  offset: 0, 22
+  index: -1
+zjs11
+  rotate: false
+  xy: 195, 247
+  size: 287, 391
+  orig: 288, 392
+  offset: 0, 1
+  index: -1
+zjs15
+  rotate: false
+  xy: 2, 8
+  size: 131, 189
+  orig: 131, 191
+  offset: 0, 2
+  index: -1
+zjs16
+  rotate: false
+  xy: 195, 2
+  size: 353, 243
+  orig: 353, 245
+  offset: 0, 2
+  index: -1
+zjs28
+  rotate: false
+  xy: 484, 452
+  size: 70, 186
+  orig: 70, 186
+  offset: 0, 0
+  index: -1
