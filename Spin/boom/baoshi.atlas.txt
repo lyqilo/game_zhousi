@@ -1,0 +1,125 @@
+
+baoshi.png
+size: 272,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 370
+  size: 136, 128
+  orig: 139, 134
+  offset: 2, 4
+  index: -1
+10
+  rotate: true
+  xy: 134, 360
+  size: 148, 134
+  orig: 155, 137
+  offset: 4, 1
+  index: -1
+11
+  rotate: true
+  xy: 2, 232
+  size: 136, 120
+  orig: 139, 132
+  offset: 1, 8
+  index: -1
+12
+  rotate: false
+  xy: 162, 902
+  size: 101, 90
+  orig: 107, 90
+  offset: 2, 0
+  index: -1
+13
+  rotate: true
+  xy: 2, 146
+  size: 84, 95
+  orig: 89, 97
+  offset: 3, 0
+  index: -1
+14
+  rotate: true
+  xy: 162, 994
+  size: 94, 103
+  orig: 98, 103
+  offset: 4, 0
+  index: -1
+15
+  rotate: true
+  xy: 2, 57
+  size: 87, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 92, 2
+  size: 84, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 158, 813
+  size: 87, 101
+  orig: 90, 102
+  offset: 0, 1
+  index: -1
+2
+  rotate: false
+  xy: 99, 88
+  size: 139, 131
+  orig: 148, 135
+  offset: 2, 4
+  index: -1
+3
+  rotate: false
+  xy: 124, 221
+  size: 143, 137
+  orig: 148, 139
+  offset: 3, 2
+  index: -1
+4
+  rotate: true
+  xy: 2, 508
+  size: 149, 130
+  orig: 152, 130
+  offset: 3, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 818
+  size: 154, 135
+  orig: 157, 135
+  offset: 3, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 659
+  size: 157, 131
+  orig: 158, 131
+  offset: 1, 0
+  index: -1
+7
+  rotate: true
+  xy: 135, 662
+  size: 149, 135
+  orig: 156, 138
+  offset: 1, 3
+  index: -1
+8
+  rotate: false
+  xy: 2, 955
+  size: 158, 133
+  orig: 159, 134
+  offset: 1, 0
+  index: -1
+9
+  rotate: true
+  xy: 135, 510
+  size: 150, 134
+  orig: 152, 135
+  offset: 2, 0
+  index: -1
