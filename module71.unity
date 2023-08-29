@@ -8963,7 +8963,7 @@ MonoBehaviour:
   - {fileID: 7298664001024366217, guid: f272bace21e09ba41b771c5c3c1ae0de, type: 3}
   Times: 1
   SetNative: 1
-  speed: 0.03
+  speed: 0.05
 --- !u!114 &657039272
 MonoBehaviour:
   m_ObjectHideFlags: 0
