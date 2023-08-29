@@ -51,7 +51,7 @@ TextureImporter:
       213: 3348797385765404717
     second: ef_Olympus_xvlie_002_15
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -96,9 +97,9 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
@@ -110,12 +111,13 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -159,6 +161,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -508,6 +522,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ef_Olympus_xvlie_002_0: 8478584552650899098
+      ef_Olympus_xvlie_002_1: -4208057744489948242
+      ef_Olympus_xvlie_002_10: -8686231577311769395
+      ef_Olympus_xvlie_002_11: 8135330437142972028
+      ef_Olympus_xvlie_002_12: -8237304999705497981
+      ef_Olympus_xvlie_002_13: -6341231570916956917
+      ef_Olympus_xvlie_002_14: 1754340727593767216
+      ef_Olympus_xvlie_002_15: 3348797385765404717
+      ef_Olympus_xvlie_002_2: 9100683842563229181
+      ef_Olympus_xvlie_002_3: -7406328532104579142
+      ef_Olympus_xvlie_002_4: 1270617029843033470
+      ef_Olympus_xvlie_002_5: -7656130282123474066
+      ef_Olympus_xvlie_002_6: -1894977845965476395
+      ef_Olympus_xvlie_002_7: -5636137719648485899
+      ef_Olympus_xvlie_002_8: -7860938273965791630
+      ef_Olympus_xvlie_002_9: -7247459858320788893
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
