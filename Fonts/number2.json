@@ -97,20 +97,76 @@
 	"sourceSize": {"w":22,"h":30}
 },
 {
-	"filename": "x.png",
-	"frame": {"x":233,"y":0,"w":22,"h":30},
+	"filename": "B.png",
+	"frame": {"x":233,"y":0,"w":28,"h":30},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":30},
-	"sourceSize": {"w":22,"h":30}
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":30},
+	"sourceSize": {"w":28,"h":30}
+},
+{
+	"filename": "C.png",
+	"frame": {"x":261,"y":0,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+{
+	"filename": "K.png",
+	"frame": {"x":291,"y":0,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":30},
+	"sourceSize": {"w":28,"h":30}
+},
+{
+	"filename": "L.png",
+	"frame": {"x":319,"y":0,"w":23,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":30},
+	"sourceSize": {"w":23,"h":30}
+},
+{
+	"filename": "M.png",
+	"frame": {"x":342,"y":0,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":30}
+},
+{
+	"filename": "r.png",
+	"frame": {"x":374,"y":0,"w":17,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":30},
+	"sourceSize": {"w":17,"h":30}
+},
+{
+	"filename": "T.png",
+	"frame": {"x":391,"y":0,"w":27,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":30},
+	"sourceSize": {"w":27,"h":30}
+},
+{
+	"filename": "x.png",
+	"frame": {"x":418,"y":0,"w":28,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":30},
+	"sourceSize": {"w":28,"h":30}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "number2.png",
 	"format": "RGBA8888",
-	"size": {"w":255,"h":30},
+	"size": {"w":446,"h":30},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:ef5aec02ea98e8cd1caf08d80050cf93:da2107883ffb156baa84af7bb3f7c35d:f0abe7633725d6006ce81814e4572559$"
+	"smartupdate": "$TexturePacker:SmartUpdate:5006ea9b1b57b555cbc10a44c3e0f00a:1889db7e775377bc97c1b91219faa9c6:f0abe7633725d6006ce81814e4572559$"
 }
 }
